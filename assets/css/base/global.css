@@ -1,0 +1,9 @@
+@font-face {
+    font-family: press-start-2p;
+    src: url(../fonts/PressStart2P.ttf);
+}
+
+body {
+    font-size: 62.5%;
+    font-family: press-start-2p, sans-serif;
+}
